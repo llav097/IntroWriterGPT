@@ -1,0 +1,207 @@
+{
+  "model_structure": {
+    "level_1": {
+      "X": "Evening Detachment from Work",
+      "M": "Bedtime Exhaustion",
+      "Y": "Morning State of Being Recovered"
+    },
+    "level_2": {
+      "X": "Leader Support for Recovery",
+      "Ma": "Evening Detachment from Work",
+      "Mb": "Bedtime Exhaustion",
+      "Y": "Morning State of Being Recovered",
+      "Z": "Leader-Member Exchange",
+      "Z_mod_path": "X -> Ma"
+    }
+  },
+  "constructs": {
+    "Recovery": {
+      "mentions": 12
+    },
+    "Employee health": {
+      "mentions": 1
+    },
+    "Well-being": {
+      "mentions": 3
+    },
+    "Psychological detachment": {
+      "mentions": 6
+    },
+    "Stress": {
+      "mentions": 1
+    },
+    "Energy": {
+      "mentions": 1
+    },
+    "Leisure activities": {
+      "mentions": 1
+    },
+    "Job demands": {
+      "mentions": 2
+    },
+    "Interpersonal stressors": {
+      "mentions": 1
+    },
+    "Leadership": {
+      "mentions": 5
+    },
+    "Employee recovery": {
+      "mentions": 3
+    },
+    "Work-home boundaries": {
+      "mentions": 1
+    },
+    "Strain": {
+      "mentions": 1
+    },
+    "Depletion": {
+      "mentions": 1
+    },
+    "Recovery needs": {
+      "mentions": 1
+    },
+    "Boundary violations": {
+      "mentions": 1
+    },
+    "Leisure time": {
+      "mentions": 1
+    },
+    "Leader support for recovery": {
+      "mentions": 11
+    },
+    "Exhaustion": {
+      "mentions": 1
+    },
+    "Morning recovery state": {
+      "mentions": 1
+    },
+    "Leader-member exchange": {
+      "mentions": 5
+    },
+    "Recovery-related constructs": {
+      "mentions": 1
+    },
+    "Job resources": {
+      "mentions": 1
+    },
+    "Interpersonal work environment": {
+      "mentions": 1
+    },
+    "Leader expectations": {
+      "mentions": 1
+    },
+    "Work expectations": {
+      "mentions": 1
+    },
+    "Overcommitment": {
+      "mentions": 1
+    },
+    "Benevolent leadership": {
+      "mentions": 1
+    }
+  },
+  "citations": [
+    {
+      "source": "Sonnentag et al., 2022",
+      "purpose": "Definition and importance of recovery",
+      "supports": "Recovery is a central mechanism for health maintenance",
+      "type": "Theoretical framework"
+    },
+    {
+      "source": "Steed et al., 2021",
+      "purpose": "Recent empirical confirmation",
+      "supports": "Empirical evidence for recovery's role in well-being",
+      "type": "Empirical study"
+    },
+    {
+      "source": "Clinton et al., 2017",
+      "purpose": "Mechanism validation",
+      "supports": "Detachment facilitates next-day energy",
+      "type": "Empirical study"
+    },
+    {
+      "source": "Liu et al., 2021",
+      "purpose": "Contextual replication",
+      "supports": "Stress moderates detachment outcomes",
+      "type": "Empirical study"
+    },
+    {
+      "source": "Hahn et al., 2012",
+      "purpose": "Identifies leisure activities as facilitators",
+      "supports": "Positive influence on detachment",
+      "type": "Empirical study"
+    },
+    {
+      "source": "Germeys & De Gieter, 2018",
+      "purpose": "Identifies job demands as hindrance",
+      "supports": "Negative influence on detachment",
+      "type": "Empirical study"
+    },
+    {
+      "source": "Rodr\u00edguez-Mu\u00f1oz et al., 2017",
+      "purpose": "Interpersonal stressors as barriers",
+      "supports": "Relational strain impedes detachment",
+      "type": "Empirical study"
+    },
+    {
+      "source": "Bennett et al., 2016",
+      "purpose": "Exception to research gap",
+      "supports": "Leadership has been studied in limited contexts",
+      "type": "Empirical study"
+    },
+    {
+      "source": "Tement et al., 2020",
+      "purpose": "Exception to research gap",
+      "supports": "Some work exists on leadership and recovery",
+      "type": "Empirical study"
+    },
+    {
+      "source": "Kim & Beehr, 2020",
+      "purpose": "Theoretical explanation of leadership impact",
+      "supports": "Leaders shape work-home boundary perceptions",
+      "type": "Theoretical framework"
+    },
+    {
+      "source": "Liao et al., 2016",
+      "purpose": "Empirical support for boundary shaping",
+      "supports": "Leadership affects employee detachment via boundaries",
+      "type": "Empirical study"
+    },
+    {
+      "source": "Liden et al., 1997",
+      "purpose": "Theoretical foundation for LMX",
+      "supports": "LMX as a quality indicator of the leader-follower relationship relevant for behavioral influence",
+      "type": "Theoretical framework"
+    },
+    {
+      "source": "Podsakoff et al., 2019",
+      "purpose": "Justification of study design",
+      "supports": "Daily variation in recovery-related constructs requires day-level assessment",
+      "type": "Empirical study"
+    },
+    {
+      "source": "Bennett et al., 2018",
+      "purpose": "Background reference",
+      "supports": "Existing predictors of recovery focused on job characteristics",
+      "type": "Empirical review"
+    },
+    {
+      "source": "Harms et al., 2017",
+      "purpose": "Background on leadership and well-being",
+      "supports": "Leadership can influence employee well-being",
+      "type": "Theoretical framework"
+    },
+    {
+      "source": "Montano et al., 2017",
+      "purpose": "Support for leadership\u2019s role in health outcomes",
+      "supports": "Meta-analytic evidence connecting leadership and well-being",
+      "type": "Review / Meta-analysis"
+    },
+    {
+      "source": "Harris & Kacmar, 2006",
+      "purpose": "Theoretical explanation for overcommitment effects",
+      "supports": "High-quality LMX may lead to personal obligation and work pressure",
+      "type": "Empirical / theoretical study"
+    }
+  ]
+}

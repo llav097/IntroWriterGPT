@@ -1,0 +1,136 @@
+{
+  "roles": [
+    "X",
+    "Ma",
+    "Mb",
+    "Y",
+    "Z"
+  ],
+  "sentence_templates": [
+    {
+      "function": "Opening statement introducing central construct and its practical importance.",
+      "meta_instruction": "Begin with a strong claim about the overarching construct and its relevance to practical outcomes.",
+      "example": "Recovery from daily work is crucial for employee health and well-being (Sonnentag et al., 2022; Steed et al., 2021)."
+    },
+    {
+      "function": "Provides psychological mechanism (detachment) underlying the recovery process, contextualized by stress.",
+      "meta_instruction": "Explain how Ma (detachment) facilitates Y (next-day energy) especially under condition Z (stress).",
+      "example": "During stressful times, it is particularly important that employees mentally detach from work during after-work hours and that they gain some mental distance from work so that they can start the next workday refreshed and with new energy (Clinton et al., 2017; Liu et al., 2021)."
+    },
+    {
+      "function": "Describes antecedents that influence the psychological mechanism (detachment).",
+      "meta_instruction": "List factors influencing Ma (detachment) as part of the recovery process.",
+      "example": "Research has identified several factors that facilitate versus hinder psychological detachment from work, including specific leisure activities (Hahn et al., 2012; Liu et al., 2021), job demands (Germeys & De Gieter, 2018), and interpersonal job stressors (Rodr\u00edguez-Mu\u00f1oz et al., 2017)."
+    },
+    {
+      "function": "Identifies research gap in the influence of X (leadership) on Ma (detachment).",
+      "meta_instruction": "Introduce a research gap: X is understudied in relation to Ma.",
+      "example": "Although there are a few exceptions (Bennett et al., 2016; Tement et al., 2020), the role of leadership for employee recovery in general and for employee psychological detachment in particular has been largely neglected."
+    },
+    {
+      "function": "Justifies the relevance of X by explaining how it influences Ma through social-cognitive mechanisms.",
+      "meta_instruction": "Explain why X is important by connecting it to Ma using theoretical mechanisms (e.g., boundaries).",
+      "example": "Leaders, however, might be very important for employee recovery and psychological detachment, respectively, because they influence employees' perspectives on work and on work-home boundaries (Kim & Beehr, 2020; Liao et al., 2016)."
+    },
+    {
+      "function": "Describes supportive leader behaviors that positively influence X\u2019s effect on Ma and Mb.",
+      "meta_instruction": "Illustrate how leader behavior affects Ma and Mb via support-related actions.",
+      "example": "More specifically, leaders might facilitate their employees' recovery by being mindful of signs of strain and depletion in their employees, acknowledging their recovery needs, and by reminding them about the importance of recovery."
+    },
+    {
+      "function": "Provides example of how X can negatively impact Ma or Mb via boundary violations.",
+      "meta_instruction": "Show how X can hinder Ma or Mb through unsupportive behavior.",
+      "example": "However, leaders also might undermine their employees' recovery by violating boundaries between work and non-work life, for instance, by contacting them during leisure time."
+    },
+    {
+      "function": "States the dual aim of the study: scale development and model testing.",
+      "meta_instruction": "Use a structured sentence to outline study goals (e.g., scale development + model test) including the key independent variable X and outcome Y, referencing a figure if applicable.",
+      "example": "To better understand the role leaders play in employee recovery we, first, develop and validate a scale to measure leader support for recovery, and, second, suggest and test a model that introduces leader support for recovery as an important predictor of employee recovery (Figure 1)."
+    },
+    {
+      "function": "Summarizes the proposed serial mediation model linking X to Y via Ma and Mb.",
+      "meta_instruction": "Use to describe the core theoretical model using serial mediation (X \u2192 Ma \u2192 Mb \u2192 Y). Structure the sentence to clearly reflect logical flow and direction.",
+      "example": "Specifically, we propose that leader support for recovery is positively related to followers' psychological detachment from work during after-work hours and that psychological detachment, in turn, is associated with lower levels of exhaustion and higher levels of morning recovery states."
+    },
+    {
+      "function": "Introduces Z (LMX) as a moderator of the X \u2192 Ma relationship.",
+      "meta_instruction": "Use to introduce a moderator (Z) affecting the X \u2192 Ma path, referencing theoretical grounding if available.",
+      "example": "We suppose that leader support for recovery may not be effective under all circumstances and examine leader-member exchange (LMX; Liden et al., 1997) as a moderator of the relationship between leader support for recovery and employee psychological detachment from work."
+    },
+    {
+      "function": "Justifies within-person design using prior research.",
+      "meta_instruction": "Use to explain why a daily diary or within-person design is necessary, citing literature that supports within-subject variability.",
+      "example": "To capture the substantial within-person variation in recovery-related constructs and well-being (Podsakoff et al., 2019), we collect daily survey data."
+    },
+    {
+      "function": "Clarifies the level of key predictor and moderator variables in the design.",
+      "meta_instruction": "Use to specify which variables are modeled at the person-level in a multilevel design.",
+      "example": "We include leader support for recovery and LMX as person-level variables in the multi-level study design."
+    },
+    {
+      "function": "Introduces the contribution section of the introduction.",
+      "meta_instruction": "Use to begin a new section that outlines the scientific contributions of the study.",
+      "example": "We seek to make several contributions."
+    },
+    {
+      "function": "Presents the first contribution: introducing X as a predictor within recovery research.",
+      "meta_instruction": "Use this structure to link the study's novelty (X) to an existing field (R), signaling literature extension.",
+      "example": "First, our study adds to the recovery literature by examining the role of leadership for employee recovery."
+    },
+    {
+      "function": "Establishes literature gap by summarizing dominant predictors in the field.",
+      "meta_instruction": "Use to emphasize which areas are well-studied and dominant in the current literature to set up your contribution.",
+      "example": "Until now, the vast majority of studies investigating predictors of recovery focused on job demands and job resources (e.g., job control; Bennett et al., 2018; Steed et al., 2021)."
+    },
+    {
+      "function": "Clarifies the contribution by positioning leadership as a novel predictor of recovery.",
+      "meta_instruction": "Use to explicitly highlight how the study expands existing models by adding a new predictor (X) to an established outcome (Y).",
+      "example": "We extend the predictor space by showing that also the leader, as an important aspect of the interpersonal work environment, plays a core role in facilitating employees' recovery processes."
+    },
+    {
+      "function": "Introduces a new multidimensional construct (X) as the second key contribution.",
+      "meta_instruction": "Use to frame a theoretical contribution by defining a new construct, emphasizing its structure or dimensionality.",
+      "example": "Second, we suggest leader support for recovery as a specific new multidimensional construct."
+    },
+    {
+      "function": "Clarifies the multidimensional nature of the newly introduced construct (X).",
+      "meta_instruction": "Use to elaborate the dimensional structure of a construct by describing the various facets it includes.",
+      "example": "As such, we highlight that leader support for recovery encompasses multiple facets that leaders need to consider when they want to support their followers' recovery processes."
+    },
+    {
+      "function": "Connects the current work to prior research to show theoretical lineage.",
+      "meta_instruction": "Use to acknowledge and connect to prior theory or constructs that relate to your new variable (X).",
+      "example": "We build on earlier work by Bennett et al. (2016) that demonstrated that leaders' expectations that employees work during leisure time can undermine employee recovery."
+    },
+    {
+      "function": "Distinguishes the new construct from earlier related constructs.",
+      "meta_instruction": "Use to delineate how your construct (X) goes beyond previous conceptions in the literature.",
+      "example": "However, we go beyond Bennett et al.'s approach and argue that leader support for recovery is more than just not expecting employees to show excessive work commitment during non-work time."
+    },
+    {
+      "function": "Illustrates the operational facets of the new construct through concrete behaviors.",
+      "meta_instruction": "Use to concretize a construct through examples of associated behaviors or practices.",
+      "example": "Rather, leader support for recovery includes behaviours that explicitly promote recovery, for instance by expressing empathy for recovery and acting as a role model."
+    },
+    {
+      "function": "Presents methodological contribution by introducing a scale for the newly defined construct.",
+      "meta_instruction": "Use to describe scale development for a new construct as part of the study\u2019s methodological contribution.",
+      "example": "To be able to examine the multidimensional nature of leader support for recovery, we develop and validate short scales that capture various aspects of the construct."
+    },
+    {
+      "function": "Introduces the third key contribution by connecting the study to broader leadership and well-being research.",
+      "meta_instruction": "Use to introduce a broader contribution that connects a study variable (Z) to established outcome areas like well-being, supported by review literature.",
+      "example": "Third, we contribute to the broader literature on leadership and well-being (Harms et al., 2017; Montano et al., 2017) by extending the knowledge about the benefits of leader-member exchange (LMX)."
+    },
+    {
+      "function": "Contrasts previous findings to argue for a more differentiated understanding of the moderator Z.",
+      "meta_instruction": "Use to signal divergence from existing empirical findings and justify a refined conceptualization of a moderator (Z).",
+      "example": "While Bennett et al. (2016) reported a direct negative association between high LMX and employee recovery, we demonstrate that a more nuanced perspective on LMX is needed."
+    },
+    {
+      "function": "Provides a refined conceptual interpretation of how Z may enable or hinder recovery through motivational mechanisms.",
+      "meta_instruction": "Use to propose a nuanced model for Z, explaining conditional pathways (e.g., why and when high levels of a moderator help or hurt outcomes).",
+      "example": "Although a high LMX might lead to follower overcommitment and neglect of recovery (Bennett et al., 2016; Harris & Kacmar, 2006), a high LMX is needed so that followers can trust that their leader expresses support for recovery out of a benevolent motive."
+    }
+  ]
+}
