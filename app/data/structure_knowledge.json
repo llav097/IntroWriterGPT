@@ -131,6 +131,13 @@
       "function": "Provides a refined conceptual interpretation of how Z may enable or hinder recovery through motivational mechanisms.",
       "meta_instruction": "Use to propose a nuanced model for Z, explaining conditional pathways (e.g., why and when high levels of a moderator help or hurt outcomes).",
       "example": "Although a high LMX might lead to follower overcommitment and neglect of recovery (Bennett et al., 2016; Harris & Kacmar, 2006), a high LMX is needed so that followers can trust that their leader expresses support for recovery out of a benevolent motive."
+    },
+    {
+      "function": "Describe gap",
+      "meta_instruction": "Describe what is missing in current literature or understudied, using academic qualifiers like 'has been largely neglected'.",
+      "example": "Although there are a few exceptions, the role of leadership for employee recovery has been largely neglected.",
+      "structure": "Although X has been studied in context A, its role in Y remains unclear.",
+      "paragraph_type": "gap_paragraph"
     }
   ]
 }
